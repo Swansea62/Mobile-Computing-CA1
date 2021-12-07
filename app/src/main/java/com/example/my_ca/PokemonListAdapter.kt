@@ -1,6 +1,11 @@
 package com.example.my_ca
 
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.example.my_ca.data.PokemonEntity
+import com.example.my_ca.databinding.ListItemBinding
 
 class PokemonListAdapter(private val pokemonList: List<PokemonEntity>)
     :

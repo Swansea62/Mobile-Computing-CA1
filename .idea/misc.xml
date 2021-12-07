@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Year_3/Mobile Computing/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Year_3/Mobile Computing/app/src/main/res/layout/fragment01_fragment.xml" value="0.2715477293790547" />
+        <entry key="..\:/Year_3/Mobile Computing/app/src/main/res/layout/detail_fragment.xml" value="0.5" />
+        <entry key="..\:/Year_3/Mobile Computing/app/src/main/res/layout/fragment01_fragment.xml" value="0.5" />
         <entry key="..\:/Year_3/Mobile Computing/app/src/main/res/layout/list_item.xml" value="0.2712962962962963" />
       </map>
     </option>
