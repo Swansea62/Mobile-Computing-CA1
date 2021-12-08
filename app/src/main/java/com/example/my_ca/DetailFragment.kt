@@ -11,7 +11,7 @@ import androidx.activity.OnBackPressedCallback
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
-import com.example.pokemonapp.databinding.EditorFragmentBinding
+import com.example.my_ca.databinding.EditorFragmentBinding
 
 class DetailFragment : Fragment() {
 
